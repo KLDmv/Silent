@@ -514,7 +514,7 @@ body{
     position: absolute;
     margin-top: -4.4vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -544,7 +544,7 @@ body{
     position: absolute;
     margin-top: -4.9vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -574,7 +574,7 @@ body{
     position: absolute;
     margin-top: -4.2vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -604,7 +604,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     opacity: 0;
 }
@@ -614,7 +614,7 @@ body{
 
 .antsideh{
     position: absolute;
-    color:white;
+    color:black;
     margin-top: -77vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -661,7 +661,7 @@ body{
 }
 .ronsideh{
     position: absolute;
-    color:white;
+    color:black;
     margin-top: -85vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -728,7 +728,7 @@ body{
     position: absolute;
     margin-top: -4.4vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -757,7 +757,7 @@ body{
     position: absolute;
     margin-top: -4.9vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -787,7 +787,7 @@ body{
     position: absolute;
     margin-top: -4.2vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -869,7 +869,7 @@ body{
     position: absolute;
     margin-top: -4.4vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -899,7 +899,7 @@ body{
     position: absolute;
     margin-top: -4.2vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -910,7 +910,7 @@ body{
 
 .ngsideh{
     position: absolute;
-    color:white;
+    color:black;    
     margin-top: -85vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -968,7 +968,7 @@ body{
     position: absolute;
     margin-top: -4.4vh;
     margin-left: 4vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;

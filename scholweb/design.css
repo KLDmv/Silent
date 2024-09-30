@@ -36,7 +36,7 @@ text-decoration: none;
 
 .bgp1inf{
     position: absolute;
-    background-color: #b3b2b2c7;
+    background-color: #c0c0c077;
     height: 50vh;
     width: 40vh;
     border-radius: 15px;
@@ -320,7 +320,7 @@ body{
 }
 .sideh{
     position: absolute;
-    color:rgba(255, 255, 255, 0.767);
+    color:white;
     margin-top: -164vh;
     margin-left: 75vw;
 }
@@ -1046,7 +1046,7 @@ body{
 
 .themeitem{
     position: absolute;
-    color: black;
+    color: rgb(202, 202, 202);
     text-decoration: none;
 }
 .thememarg{
@@ -1197,7 +1197,7 @@ body{
 .intropic{
     height: 40vh;
     border-radius: 20px;
-    transition: transform 1s linear;
+    transition: transform 0.2s linear;
 }
 .intropic:active{
     transform: scale(1.05);
@@ -1210,7 +1210,7 @@ body{
     color:white;
 }
 .introtext::after{
-    transition: width 0.4 ease-out;
+    transition: width 0.2 ease-out;
 }
 .introtext:hover::after{
     width: 100vw;

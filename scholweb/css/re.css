@@ -471,6 +471,7 @@ a{
     margin-top: -88vh;
     margin-left: 32vw;
     white-space: nowrap;
+    color: white;
 }
 .sarkiinfimg{
     height: 50vh;
@@ -564,7 +565,7 @@ a{
     position: absolute;
     margin-top: -4.9vh;
     margin-left: 3.3vw;
-    color:white;
+    color:black;
     transition: opacity 1s ease;
     white-space: nowrap;
     opacity: 0;
@@ -634,7 +635,7 @@ a{
 
 .antsideh{
     position: absolute;
-    color: black;
+    color: white;
     margin-top: -77vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -665,6 +666,7 @@ a{
     margin-left: -2vw;
     list-style-type: none;
     font-size: 20px;
+    color: white;
 }
 .anth1{
     margin-bottom: 13vh;
@@ -680,7 +682,7 @@ a{
 }
 .ronsideh{
     position: absolute;
-    color: black;
+    color: white;
     margin-top: -85vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -711,6 +713,7 @@ a{
     margin-left: -2vw;
     list-style-type: none;
     font-size: 20px;
+    color: white;
 }
 .ronh1{
     margin-bottom: 13vh;
@@ -817,7 +820,7 @@ a{
 
 .casideh{
     position: absolute;
-    color:black;
+    color: white;
     margin-top: -85vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -851,6 +854,7 @@ a{
     margin-left: -2vw;
     list-style-type: none;
     font-size: 20px;
+    color: white;
 }
 .cah1{
     margin-bottom: 13vh;
@@ -928,7 +932,7 @@ a{
 
 .ngsideh{
     position: absolute;
-    color: black;
+    color: white;
     margin-top: -85vh;
     margin-left: 30vw;
     white-space: nowrap;
@@ -950,6 +954,7 @@ a{
     margin-left: -2vw;
     list-style-type: none;
     font-size: 20px;
+    color: white;
 }
 .ngh1{
     margin-bottom: 13vh;

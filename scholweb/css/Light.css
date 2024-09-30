@@ -1082,6 +1082,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 1.4vw;
+    color: black;
 }
 .thememarg1{
     margin-top: 30vh;
@@ -1102,6 +1103,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 1.4vw;
+    color: black;
 }
 .thememarg2{
     margin-top: -20vh;
@@ -1122,6 +1124,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 1.4vw;
+    color: black;
 }
 .thememarg3{
     margin-top: -20vh;
@@ -1142,6 +1145,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 1.4vw;
+    color: black;
 }
 .thememarg4{
     margin-top: 10vh;
@@ -1162,6 +1166,7 @@ body{
     position: absolute;
     margin-top: -4vh;
     margin-left: 1.4vw;
+    color: black;
 }
 .thememarg5{
     margin-top: -20vh;
